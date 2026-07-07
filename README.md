@@ -1,4 +1,4 @@
-# CareerAnalyser-FYP
+# CareerAnalyser - Final Year Project
 
 Career Analyser is an interactive career path analysis system that helps users understand their current skills, compare careers, and receive structured guidance for bridging skill gaps. The system is designed to make career planning clearer by combining skill analysis, visual charts, and personalised recommendations in one web application.
 
