@@ -35,3 +35,6 @@ This project was developed as a final year project to demonstrate how technology
 - Provide AI-based course recommendations
 - Include more career paths and industries
 
+## Video
+GitHub Diagram - https://gitdiagram.com/francescaale/careeranalyser-fyp/video
+
